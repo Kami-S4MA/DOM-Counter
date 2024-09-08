@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+}
+
+h1{
+  margin-bottom: 3rem;
+  font-size: 3rem;
+}
+p{
+  font-size: 2rem;
+  text-align: center;
+}
+.outer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+.button-group{
+  display: flex;
+}
+.count{
+  margin-bottom: 2rem;
+  color: brown;
+}
+
+button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 6rem;
+  margin: 0px 1rem;
+  font-size: 3rem;
+
+}
+/* .add{
+  height: 60px;
+  width: 60px;
+  font-size: 50px;
+
+}
+.subtract{
+  height: 60px;
+  width: 60px;
+  font-size: 50px;
+} */
